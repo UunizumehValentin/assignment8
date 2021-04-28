@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
-import { FiLogOut, FiPower } from "react-icons/fi";
+import { FiPower } from "react-icons/fi";
 import { Link } from "react-router-dom";
 import { UsersContext } from "../contexts/UsersContext";
 

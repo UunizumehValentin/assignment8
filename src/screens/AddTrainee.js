@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { Form, Container, Button } from "react-bootstrap";
 
 const AddTrainee = () => {
